@@ -1,6 +1,6 @@
 # History
 
-## TD3_HalfCheetah.ipynb (NOT converging)
+## TD3_HalfCheetah.ipynb
 
 ![plot](./history/TD3_HalfCheetah.png)
 
