@@ -1,5 +1,9 @@
 # History
 
+## DDPG_HalfCheetah.ipynb
+
+![plot](./history/DDPG_HalfCheetah.png)
+
 ## TD3_HalfCheetah.ipynb
 
 ![plot](./history/TD3_HalfCheetah.png)
